@@ -1,29 +1,22 @@
-# vue-project
+# To-Do List
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descrição
 
-## Recommended IDE Setup
+Este é um projeto de To-Do List desenvolvido com Vue.js e Bootstrap. A aplicação permite aos usuários adicionar, editar, marcar como concluídas e remover tarefas de uma lista.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tecnologias Utilizadas
 
-## Customize configuration
+- **Vue.js**: Framework JavaScript progressivo para construir interfaces de usuário.
+- **Bootstrap**: Framework de front-end para desenvolvimento de interfaces responsivas e móveis.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Funcionalidades
 
-## Project Setup
+- Adicionar novas tarefas
+- Editar tarefas existentes
+- Marcar tarefas como concluídas
+- Remover tarefas da lista
+- Interface responsiva e amigável
 
-```sh
-npm install
-```
+## Pré-requisitos
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Certifique-se de ter o Node.js e o npm instalados em sua máquina.
