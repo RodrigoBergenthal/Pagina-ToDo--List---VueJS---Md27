@@ -15,4 +15,10 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  build: {
+    rollupOptions: {
+      external: ['bootstrap/dist/css/bootstrap.min.css']
+    }
+  }
 })
+
